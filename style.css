@@ -1,0 +1,18 @@
+.menu{
+display: flex;
+justify-content: space-between;
+font-size: 20px;
+background-color: black;
+color: white;
+}
+.bodyimg{
+border: 2px solid black;
+border-radius: 50px;
+}
+.facts{
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    border: dotted;
+    border-radius: 50px;
+}
