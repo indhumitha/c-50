@@ -2,11 +2,11 @@
 display: flex;
 justify-content: space-between;
 font-size: 20px;
-background-color: black;
-color: white;
+background-color: #000000;
+color: #ffffff;
 }
 .bodyimg{
-border: 2px solid black;
+border: 2px solid #000000;
 border-radius: 50px;
 }
 .facts{
